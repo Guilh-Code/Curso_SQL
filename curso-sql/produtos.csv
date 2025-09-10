@@ -1,0 +1,42 @@
+IdProduto;DescProduto;DescCateogriaProduto
+1;Airflow Lover;lovers
+10;Daily Loot;rpg
+11;Lista de presença;present
+12;Presença Streak;present
+13;R Lover;lovers
+14;Reembolso: Troca de Pontos StreamElements;streamelements
+15;Resgatar Ponei;ponei
+16;Torta;food
+17;Troca de Pontos StreamElements;streamelements
+18;Venda de Item: 1 - Bota das Sombras (200);rpg
+19;Venda de Item: 10 - Couraça das Sombras (300);rpg
+2;Batata;food
+20;Venda de Item: 12 - Túnica Arcana (500);rpg
+21;Venda de Item: 13 - Couraça do Berserker (600);rpg
+22;Venda de Item: 14 - Espada Curta (150);rpg
+23;Venda de Item: 15 - Machado de Batalha (300);rpg
+24;Venda de Item: 16 - Adaga (100);rpg
+25;Venda de Item: 17 - Martelo de Guerra (400);rpg
+26;Venda de Item: 18 - Cajado Arcano (250);rpg
+27;Venda de Item: 19 - Arco Longo (200);rpg
+28;Venda de Item: 20 - Lança (220);rpg
+29;Venda de Item: 21 - Maça (280);rpg
+3;Bolo;food
+30;Venda de Item: 22 - Espada Longa (250);rpg
+31;Venda de Item: 23 - Adaga Envenenada (150);rpg
+32;Venda de Item: 24 - Cajado Sagrado (250);rpg
+33;Venda de Item: 25 - Ukulele das Trevas (250);rpg
+34;Venda de Item: 3 - Chinélos Místicos (350);rpg
+35;Venda de Item: 4 - Botas Berserker (450);rpg
+36;Venda de Item: 5 - Botas Diversão (450);rpg
+37;Venda de Item: 6 - Chapéu da Sombra (150);rpg
+38;Venda de Item: 7 - Capacete de Ferro (400);rpg
+39;Venda de Item: 8 - Chapéu Arcano (300);rpg
+4;Cerveja;food
+40;Venda de Item: 9 - Elmo do Berserker (350);rpg
+41;join failed;chat
+5;ChatMessage;chat
+6;Churn_10pp;churn_model
+7;Churn_2pp;churn_model
+8;Churn_5pp;churn_model
+9;Coca Cola;food
