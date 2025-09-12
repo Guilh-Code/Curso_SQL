@@ -1,0 +1,2 @@
+.tables
+-- SHOW TABLES

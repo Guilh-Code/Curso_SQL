@@ -1,4 +1,6 @@
-SELECT IdCliente, FlEmail
+SELECT IdCliente,
+       DtCriacao,
+       DtAtualizacao
 
 FROM clientes
 
