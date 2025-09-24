@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/playlist?list=PLvlkVRRKOYFRo651oD0JptVqfQgdGzMi3j"><strong>📺 Link para a Playlist Completa do Curso no YouTube</strong></a>
+  <a href="https://www.youtube.com/watch?v=VmkJG8awKqM&list=PLvlkVRRKOYFRo651oD0JptVqfQGDvMi3j"><strong>📺 Link para a Playlist Completa do Curso no YouTube</strong></a>
 </p>
 
 ---
